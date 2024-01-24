@@ -8,6 +8,7 @@
 - [ArXiv 2023] **Flow Matching for Generative Modeling** [[paper]](https://arxiv.org/pdf/2210.02747.pdf)
 
 ### Consistency Models
+- [ICLR 2024] **Improved Techniques for Training Consistency Models** [[paper]](https://arxiv.org/pdf/2310.14189.pdf)
 - [ICML 2023] **Consistency Models** [[paper]](https://arxiv.org/pdf/2303.01469.pdf)
 
 ### Score-Based & Diffusion Models
