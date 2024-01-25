@@ -18,3 +18,6 @@
 - [NeurIPS 2020] **Improved Techniques for Training Score-Based Generative Models** [[paper]](https://arxiv.org/pdf/2006.09011.pdf) [[code]](https://github.com/ermongroup/ncsnv2)
 - [NeurIPS 2019] **Generative Modeling by Estimating Gradients of the Data Distribution** [[paper]](https://arxiv.org/pdf/1907.05600.pdf) [[code]](https://github.com/ermongroup/ncsn) - NCSN
 - [UAI 2019] **Sliced Score Matching: A Scalable Approach to Density and Score Estimation** [[paper]](https://arxiv.org/pdf/1905.07088.pdf)
+
+## Protein 
+- [Google 2023] **Performance and Structural Coverage of the Latest, In-development AlphaFold Model** [[paper]](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/a-glimpse-of-the-next-generation-of-alphafold/alphafold_latest_oct2023.pdf)
