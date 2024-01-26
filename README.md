@@ -21,4 +21,5 @@
 
 ## Protein 
 - [Google 2023] **Performance and Structural Coverage of the Latest, In-development AlphaFold Model** [[paper]](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/a-glimpse-of-the-next-generation-of-alphafold/alphafold_latest_oct2023.pdf)
+- [bioRxiv 2022] **Uni-Fold: An Open-Source Platform for Developing Protein Folding Models beyond AlphaFold** [[paper]](https://www.biorxiv.org/content/10.1101/2022.08.04.502811v1.full.pdf)
 - [bioRxiv 2021] **Protein Complex Prediction with AlphaFold-Multimer** [[paper]](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v2.full.pdf)
