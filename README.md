@@ -32,3 +32,7 @@
 - [bioRxiv 2022] **OpenFold: Retraining AlphaFold2 Yields New Insights into Its Learning Mechanisms and Capacity for Generalization** [[paper]](https://www.biorxiv.org/content/10.1101/2022.11.20.517210v1.full.pdf) [[code]](https://github.com/aqlaboratory/openfold)
 - [bioRxiv 2021] **Protein Complex Prediction with AlphaFold-Multimer** [[paper]](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v2.full.pdf)
 - [Nature 2021] **Highly Accurate Protein Structure Prediction with AlphaFold** [[link]](https://www.nature.com/articles/s41586-021-03819-2) [[appendix]](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-021-03819-2/MediaObjects/41586_2021_3819_MOESM1_ESM.pdf) [[code]](https://github.com/google-deepmind/alphafold)
+
+
+#### Docking
+- [ICLR 2024] **Protein-Ligand Binding Representation Learning from Fine-Grained Interactions** [[paper]](https://arxiv.org/pdf/2311.16160.pdf)
