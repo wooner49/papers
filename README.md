@@ -4,6 +4,11 @@
 - https://towardsdatascience.com/graph-geometric-ml-in-2024-where-we-are-and-whats-next-part-ii-applications-1ed786f7bf63
 
 # Papers
+
+## Graph Models
+- [ICLR 2024] **One for All: Towards Training One Graph Model for All Classification Tasks** [[paper]](https://arxiv.org/pdf/2310.00149.pdf)
+
+
 ## Generative Model
 
 #### Flow Matching
