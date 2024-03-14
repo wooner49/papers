@@ -10,6 +10,7 @@
 
 
 ## Generative Model
+- [ArXiv 2016] **Variational Inference: A Review for Statisticians** [[paper]](https://arxiv.org/pdf/1601.00670.pdf)
 
 #### Flow Matching
 - [ArXiv 2024] **AlphaFold Meets Flow Matching for Generating Protein Ensembles** [[paper]](https://arxiv.org/pdf/2402.04845.pdf)
