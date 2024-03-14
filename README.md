@@ -10,6 +10,7 @@
 
 
 ## Generative Model
+- [ArXiv 2019] **An Introduction to Variational Autoencoders** [[paper]](https://arxiv.org/pdf/1906.02691.pdf)
 - [ArXiv 2016] **Variational Inference: A Review for Statisticians** [[paper]](https://arxiv.org/pdf/1601.00670.pdf)
 
 #### Flow Matching
