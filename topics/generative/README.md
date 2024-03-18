@@ -1,6 +1,6 @@
 # Generative Models
 - [ArXiv 2019] **An Introduction to Variational Autoencoders** [[paper]](https://arxiv.org/pdf/1906.02691.pdf)
-- - [NeurIPS 2018] **Neural Ordinary Differential Equations** [[paper]](https://arxiv.org/pdf/1806.07366.pdf)
+- [NeurIPS 2018] **Neural Ordinary Differential Equations** [[paper]](https://arxiv.org/pdf/1806.07366.pdf)
 - [NIPS 2017] **Neural Discrete Representation Learning** [[paper]](https://arxiv.org/pdf/1711.00937.pdf) - VQ-VAE
 - [ArXiv 2016] **Variational Inference: A Review for Statisticians** [[paper]](https://arxiv.org/pdf/1601.00670.pdf)
 - [ICML 2015] **Variational Inference with Normalizing Flows** [[paper]](https://arxiv.org/pdf/1505.05770v6.pdf)
