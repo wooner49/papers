@@ -1,6 +1,6 @@
 # Generative Models
 - [ArXiv 2019] **An Introduction to Variational Autoencoders** [[paper]](https://arxiv.org/pdf/1906.02691.pdf)
-- [NIPS 2017] **Neural Discrete Representation Learning** [[paper]](https://arxiv.org/pdf/1711.00937.pdf)
+- [NIPS 2017] **Neural Discrete Representation Learning** [[paper]](https://arxiv.org/pdf/1711.00937.pdf) - VQ-VAE
 - [ArXiv 2016] **Variational Inference: A Review for Statisticians** [[paper]](https://arxiv.org/pdf/1601.00670.pdf)
 
 #### Flow Matching
