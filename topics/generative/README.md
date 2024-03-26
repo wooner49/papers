@@ -1,18 +1,24 @@
 # Generative Models
-- [ArXiv 2019] **An Introduction to Variational Autoencoders** [[paper]](https://arxiv.org/pdf/1906.02691.pdf)
 - [NeurIPS 2018] **Neural Ordinary Differential Equations** [[paper]](https://arxiv.org/pdf/1806.07366.pdf)
+
+### Variational Autoencoder (VAE) [[Link]](https://lilianweng.github.io/posts/2018-08-12-vae/#vae-variational-autoencoder)
+- [ArXiv 2019] **An Introduction to Variational Autoencoders** [[paper]](https://arxiv.org/pdf/1906.02691.pdf)
+- [NIPS 2019] **Generating Diverse High-Fidelity Images with VQ-VAE-2** [[paper]](https://arxiv.org/pdf/1906.00446.pdf) - VQ-VAE-2
 - [NIPS 2017] **Neural Discrete Representation Learning** [[paper]](https://arxiv.org/pdf/1711.00937.pdf) - VQ-VAE
+- [NIPS 2017] **Understanding disentangling in β-VAE** [[paper]](https://arxiv.org/pdf/1804.03599.pdf)
+- [ICLR 2017] **β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework** [[paper]](https://openreview.net/pdf?id=Sy2fzU9gl)
 - [ArXiv 2016] **Variational Inference: A Review for Statisticians** [[paper]](https://arxiv.org/pdf/1601.00670.pdf)
+
+
+### Flow-based Generative Models [[Link]](https://lilianweng.github.io/posts/2018-10-13-flow-models/)
+- [ICML 2015] **Variational Inference with Normalizing Flows** [[paper]](https://arxiv.org/pdf/1505.05770v6.pdf)
+- 
 
 
 #### Flow Matching
 - [ArXiv 2024] **AlphaFold Meets Flow Matching for Generating Protein Ensembles** [[paper]](https://arxiv.org/pdf/2402.04845.pdf)
 - [ArXiv 2023] **SE(3)-Stochastic Flow Matching for Protein Backbone Generation** [[paper]](https://arxiv.org/pdf/2310.02391.pdf) [[code]](https://github.com/DreamFold/FoldFlow) - FoldFlow
 - [ArXiv 2023] **Flow Matching for Generative Modeling** [[paper]](https://arxiv.org/pdf/2210.02747.pdf)
-
-### Normalizing Flow
-- [ICML 2015] **Variational Inference with Normalizing Flows** [[paper]](https://arxiv.org/pdf/1505.05770v6.pdf)
-- 
 
 
 
