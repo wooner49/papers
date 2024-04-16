@@ -1,5 +1,6 @@
 # Generative Models
 ## Flow Matching
+- [ArXiv 2024] **Improving and Generalizing Flow-Based Generative Models with Minibatch Optimal Transport** [[paper]](https://arxiv.org/pdf/2302.00482.pdf) [[code]](https://github.com/atong01/conditional-flow-matching)
 - [ICLR 2023] **Flow Matching for Generative Modeling** [[paper]](https://arxiv.org/pdf/2210.02747.pdf)
 - [NeurIPS 2018] **Neural Ordinary Differential Equations** [[paper]](https://arxiv.org/pdf/1806.07366.pdf)
 
